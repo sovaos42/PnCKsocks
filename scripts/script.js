@@ -3,6 +3,6 @@ let app = new Vue({
     data: {
         product: "Socks",
         image: "./assets/vmSocks-blue-onWhite.jpg",
-        latText: "A pair of socks"
+        altText: "A pair of socks"
     }
 })
