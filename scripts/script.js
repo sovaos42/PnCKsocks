@@ -6,5 +6,6 @@ let app = new Vue({
         altText: "A pair of socks",
         inStock: true,
         inventory: 100,
+        onSale: true,
     }
 })
