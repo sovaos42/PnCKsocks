@@ -9,6 +9,7 @@ Vue.component('product-details', {
     <ul>
       <li v-for="detail in details">{{ detail }}</li>
     </ul>
+  `
 })
 Vue.component('product', {
     props: {
